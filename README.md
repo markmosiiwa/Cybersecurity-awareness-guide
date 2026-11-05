@@ -1,2 +1,2 @@
-# Cybersecurity-awareness guide
+# Cybersecurity awareness guide
 This project is a cybersecurity awareness guide that explains how to stay safe online. It begins with what cybersecurity is and why it matters, then covers five common threats phishing, malware, password attacks, social engineering, and identity theft each with warning signs and prevention tips. It also sets out essential security practices such as strong passwords, multi-factor authentication, software updates, safe browsing, secure Wi-Fi, data backups and device security. The guide closes with what to do if you suspect a cyberattack, how to protect personal information, and how to report incidents to the right support team.
